@@ -1,0 +1,1 @@
+Dona branca = violeta , Dona rosa = branco e Dona violeta = rosa
